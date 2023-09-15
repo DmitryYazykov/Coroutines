@@ -1,0 +1,4 @@
+package addClass
+
+interface WholePost {
+}

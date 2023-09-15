@@ -1,0 +1,4 @@
+package AdditionalClasses
+
+class Author {
+}

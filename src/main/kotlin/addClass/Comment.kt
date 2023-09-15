@@ -1,0 +1,4 @@
+package addClass
+
+class Comment {
+}
