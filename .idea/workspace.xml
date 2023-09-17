@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c923ca9-fbf2-4bb5-9916-b48f5aff13f6" name="Changes" comment="" />
+    <list default="true" id="5c923ca9-fbf2-4bb5-9916-b48f5aff13f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/addClass/Attachment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/addClass/Attachment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/addClass/Author.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/addClass/Author.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/addClass/Comment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/addClass/Comment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/addClass/Post.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/addClass/Post.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/addClass/PostWithComments.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/addClass/PostWithComments.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/addClass/WholePost.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/addClass/WholePost.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +24,15 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -22,13 +40,16 @@
   "associatedIndex": 4
 }]]></component>
   <component name="ProjectId" id="2VRYsgM53GvpVMyevAUmRSPsEH8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
@@ -43,5 +64,8 @@
       <updated>1694800570564</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
